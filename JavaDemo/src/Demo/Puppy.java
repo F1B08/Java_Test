@@ -13,7 +13,8 @@ public class Puppy {
 	
 	public static void main(String []agrs) {
 		// 下面的语句将创建一个对象
-		Puppy myPuppy = new Puppy("Tommy");
+		Puppy myPuppy = new Puppy("Tom");
+		
 	}
 	
 
